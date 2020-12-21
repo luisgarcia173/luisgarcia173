@@ -26,14 +26,9 @@ const luisgarcia = {
 };
 ```
 ### My activity  
-<a href="https://github.com/luisgarcia173/luisgarcia173">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgarcia173&theme=tokyonight" />
-</a>
-<a href="https://github.com/luisgarcia173/luisgarcia173">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=luisgarcia173&layout=compact&theme=tokyonight" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgarcia173&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=luisgarcia173&layout=compact&theme=tokyonight" />
 
 ### My guide  
-<a href="https://github.com/luisgarcia173/developer-roadmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisgarcia173&repo=developer-roadmap" />
-</a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisgarcia173&repo=developer-roadmap&theme=tokyonight" />
+
