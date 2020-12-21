@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hi, I'm Luis Garcia 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Garcia-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lncgarcia/)](https://www.linkedin.com/in/lncgarcia/) [![Twitter Badge](http://img.shields.io/badge/-@lncgarcia-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/lncgarcia)](https://twitter.com/lncgarcia) [![GitHub followers](https://img.shields.io/github/followers/luisgarcia173?label=Follow&style=social)](https://github.com/luisgarcia173/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-lnc.garcia-blue?style=social&logo=Instagram&link=https://www.instagram.com/lnc.garcia/)](https://www.instagram.com/lnc.garcia/) 
 
-<!--
-**luisgarcia173/luisgarcia173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Curiosities
+Proud father of a perfect son (7y), noob player (but still trying) and amateur master-chef.
+- 🔭 I’m currently working on Valecard as Solutions Architect
+- 🌱 I’m currently learning about Smart Cities on MBA
+- 🤔 I’m looking for help with League of Legends (trying to leave Bronze)
+- 💬 Ask me about cooking recipes
+- 📫 How to reach me: linkedin, email, skype
+- ⚡ Fun fact: Trying to learn Japonese (Nihon go)
 
-Here are some ideas to get you started:
+### A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const luisgarcia = {
+  pronouns: "he" | "his",
+  tech: ["Java", "Javascript", "HTML", "CSS", "Angular", "React", "Node", "SQL and NoSQL DBs"],
+  tools: ["Intellij", "Eclipse", "VSCode", "Insomnia", "Notion Notes", "Trello"],
+  architecture: ["Micro-Services", "TDD", "APIs", "Cloud-Systems"],
+  methodologes: ["TDD", "Design Patterns", "Scrum", "Kanban", "XP"],
+  pros: ["Self-Learner", "High-Performer", "Usual to work under pressure"],
+  cons: ["Still looking for"],
+  learning: ["Mobile", "DevOps and DevSec"]
+};
+```
+### My activity  
+<a href="https://github.com/luisgarcia173/luisgarcia173">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgarcia173&theme=tokyonight" />
+</a>
+<a href="https://github.com/luisgarcia173/luisgarcia173">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=luisgarcia173&layout=compact&theme=tokyonight" />
+</a>
+
+### My guide  
+<a href="https://github.com/luisgarcia173/developer-roadmap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisgarcia173&repo=developer-roadmap" />
+</a> 
