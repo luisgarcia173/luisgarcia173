@@ -31,4 +31,3 @@ const luisgarcia = {
 
 ### My guide  
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisgarcia173&repo=developer-roadmap&theme=tokyonight" /> 
-
