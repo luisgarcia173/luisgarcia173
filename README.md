@@ -30,5 +30,5 @@ const luisgarcia = {
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=luisgarcia173&layout=compact&theme=tokyonight" />
 
 ### My guide  
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisgarcia173&repo=developer-roadmap&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisgarcia173&repo=developer-roadmap&theme=tokyonight" /> 
 
