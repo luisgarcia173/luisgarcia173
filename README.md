@@ -3,9 +3,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-lnc.garcia-blue?style=social&logo=Instagram&link=https://www.instagram.com/lnc.garcia/)](https://www.instagram.com/lnc.garcia/) 
 
 ### Curiosities
-Proud father of a perfect son (7y), noob player (but still trying) and amateur master-chef.
-- 🔭 I’m currently working on Valecard as Solutions Architect
-- 🌱 I’m currently learning about Smart Cities on MBA
+Proud father of a perfect son (9y), noob player (but still trying) and amateur master-chef.
+- 🔭 I’m currently working on PlatformBuilders as Integration Architect
+- 🌱 I’m trying to be fitness (WIP)
 - 🤔 I’m looking for help with League of Legends (trying to leave Bronze)
 - 💬 Ask me about cooking recipes
 - 📫 How to reach me: linkedin, email, skype
