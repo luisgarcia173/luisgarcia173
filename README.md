@@ -3,12 +3,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-lnc.garcia-blue?style=social&logo=Instagram&link=https://www.instagram.com/lnc.garcia/)](https://www.instagram.com/lnc.garcia/) 
 
 ### Curiosities
-Proud father of a perfect son (9y), noob player (but still trying) and amateur master-chef.
-- 🔭 I’m currently working on PlatformBuilders as Integration Architect
+Proud father of a perfect son (11y), noob lol player (but still trying) and amateur master-chef.
+- 🔭 I’m currently working at CI&T as Software Architect
 - 🌱 I’m trying to be fitness (WIP)
 - 🤔 I’m looking for help with League of Legends (trying to leave Bronze)
 - 💬 Ask me about cooking recipes
-- 📫 How to reach me: linkedin, email, skype
+- 📫 How to reach me: linkedin, email, whatsapp
 - ⚡ Fun fact: Trying to learn Japonese (Nihon go)
 
 ### A little more about me...  
