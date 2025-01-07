@@ -1,5 +1,5 @@
 # Hi, I'm Luis Garcia 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Garcia-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lncgarcia/)](https://www.linkedin.com/in/lncgarcia/) [![Twitter Badge](http://img.shields.io/badge/-@lncgarcia-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/lncgarcia)](https://twitter.com/lncgarcia) [![GitHub followers](https://img.shields.io/github/followers/luisgarcia173?label=Follow&style=social)](https://github.com/luisgarcia173/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Garcia-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lncgarcia/)](https://www.linkedin.com/in/lncgarcia/) [![GitHub followers](https://img.shields.io/github/followers/luisgarcia173?label=Follow&style=social)](https://github.com/luisgarcia173/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-lnc.garcia-blue?style=social&logo=Instagram&link=https://www.instagram.com/lnc.garcia/)](https://www.instagram.com/lnc.garcia/) 
 
 ### Curiosities
