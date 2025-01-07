@@ -1,6 +1,7 @@
 # Hi, I'm Luis Garcia 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Garcia-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lncgarcia/)](https://www.linkedin.com/in/lncgarcia/) [![GitHub followers](https://img.shields.io/github/followers/luisgarcia173?label=Follow&style=social)](https://github.com/luisgarcia173/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-lnc.garcia-blue?style=social&logo=Instagram&link=https://www.instagram.com/lnc.garcia/)](https://www.instagram.com/lnc.garcia/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lncgarcia/)
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisgarcia173/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lnc.garcia/) 
 
 ### Curiosities
 Proud father of a perfect son (11y), noob lol player (but still trying) and amateur master-chef.
@@ -16,9 +17,12 @@ Proud father of a perfect son (11y), noob lol player (but still trying) and amat
 ```javascript
 const luisgarcia = {
   pronouns: "he" | "his",
-  tech: ["Java", "Javascript", "HTML", "CSS", "Angular", "React", "Node", "SQL and NoSQL DBs"],
+  tech: ["Java", "Javascript + Typescript", "HTML + CSS", "Angular", "Node", "SQL and NoSQL DBs", "Redis"],
   tools: ["Intellij", "Eclipse", "VSCode", "Insomnia", "Notion Notes", "Trello"],
-  architecture: ["Micro-Services", "TDD", "APIs", "Cloud-Systems"],
+  architecture: ["Micro-Services", "Streaming", "APIs", "Cloud-Systems"],
+  cloud: ["AWS", "API Gateway"]
+  monitoring: ["splunk", "ELK", "New Relic"]
+  messaging: ["RabbitMQ", "ActiveMQ", "Kafka"]
   methodologes: ["TDD", "Design Patterns", "Scrum", "Kanban", "XP"],
   pros: ["Self-Learner", "High-Performer", "Usual to work under pressure"],
   cons: ["Still looking for"],
