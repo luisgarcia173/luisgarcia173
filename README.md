@@ -4,13 +4,13 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lnc.garcia/) 
 
 ### Curiosities
-Proud father of a perfect son (11y), noob lol player (but still trying) and amateur master-chef.
-- 🔭 I’m currently working at CI&T as Software Architect
+Proud father of a perfect son (12y), noob lol player (but still trying) and amateur master-chef.
+- 🔭 I’m currently working at Globant as Software Developer
 - 🌱 I’m trying to be fitness (WIP)
 - 🤔 I’m looking for help with League of Legends (trying to leave Bronze)
 - 💬 Ask me about cooking recipes
 - 📫 How to reach me: linkedin, email, whatsapp
-- ⚡ Fun fact: Trying to learn Japonese (Nihon go)
+- ⚡ Fun fact: Trying to be an amateur volleyball player
 
 ### A little more about me...  
 
@@ -18,12 +18,12 @@ Proud father of a perfect son (11y), noob lol player (but still trying) and amat
 const luisgarcia = {
   pronouns: "he" | "his",
   tech: ["Java", "Javascript + Typescript", "HTML + CSS", "Angular", "Node", "SQL and NoSQL DBs", "Redis"],
-  tools: ["Intellij", "Eclipse", "VSCode", "Insomnia", "Notion Notes", "Trello"],
+  tools: ["Intellij", "VSCode", "Insomnia", "Log Seq", "Jira"],
   architecture: ["Micro-Services", "Streaming", "APIs", "Cloud-Systems"],
   cloud: ["AWS", "API Gateway"]
   monitoring: ["splunk", "ELK", "New Relic"]
   messaging: ["RabbitMQ", "ActiveMQ", "Kafka"]
-  methodologes: ["TDD", "Design Patterns", "Scrum", "Kanban", "XP"],
+  methodologes: ["SOLID", "TDD", "Design Patterns", "Scrum", "Kanban", "XP"],
   pros: ["Self-Learner", "High-Performer", "Usual to work under pressure"],
   cons: ["Still looking for"],
   learning: ["Mobile", "DevOps and DevSec"]
